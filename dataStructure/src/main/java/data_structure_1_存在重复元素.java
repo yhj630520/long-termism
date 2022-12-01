@@ -1,7 +1,10 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class 存在重复元素 {
+/**
+ * https://leetcode.cn/problems/contains-duplicate/?envType=study-plan&id=shu-ju-jie-gou-ru-men&plan=data-structures&plan_progress=11anfis
+ */
+public class data_structure_1_存在重复元素 {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5, 6, 7};
         System.out.println(containsDuplicate(numbers));

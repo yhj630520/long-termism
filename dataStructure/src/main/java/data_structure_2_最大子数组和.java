@@ -1,4 +1,7 @@
-public class 最大子数组和 {
+/**
+ * https://leetcode.cn/problems/maximum-subarray/?envType=study-plan&id=shu-ju-jie-gou-ru-men&plan=data-structures&plan_progress=11anfis
+ */
+public class data_structure_2_最大子数组和 {
     public static void main(String[] args) {
         //int[] numbers = {1, 2, 3, 4, -5, 1, 2};
         int[] numbers = {1, 2, 3, 4, -2, 1, 2};
