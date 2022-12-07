@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="55ce6293-2dfd-4e7e-84c3-6731a1c08c3d" name="Changes" comment="add reshape-the-matrix">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +198,7 @@
       <workItem from="1669962789242" duration="74000" />
       <workItem from="1669962891728" duration="56000" />
       <workItem from="1669962972941" duration="3269000" />
-      <workItem from="1670404553302" duration="1956000" />
+      <workItem from="1670404553302" duration="2029000" />
     </task>
     <task id="LOCAL-00001" summary="add dataStructure">
       <created>1669686837890</created>
@@ -227,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670407043289</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add reshape-the-matrix">
+      <created>1670407099887</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670407099887</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
