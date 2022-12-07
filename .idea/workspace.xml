@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55ce6293-2dfd-4e7e-84c3-6731a1c08c3d" name="Changes" comment="add intersection-of-two-arrays-ii">
-      <change afterPath="$PROJECT_DIR$/dataStructure/src/main/java/data_structure_6_买卖股票的最佳时机.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataStructure/src/main/java/data_structure_7_重塑矩阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="55ce6293-2dfd-4e7e-84c3-6731a1c08c3d" name="Changes" comment="add reshape-the-matrix">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +197,7 @@
       <workItem from="1669962789242" duration="74000" />
       <workItem from="1669962891728" duration="56000" />
       <workItem from="1669962972941" duration="3269000" />
-      <workItem from="1670404553302" duration="1885000" />
+      <workItem from="1670404553302" duration="1956000" />
     </task>
     <task id="LOCAL-00001" summary="add dataStructure">
       <created>1669686837890</created>
@@ -222,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669983622637</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add reshape-the-matrix">
+      <created>1670407043289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670407043289</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +248,8 @@
     <MESSAGE value="add dataStructure" />
     <MESSAGE value="add two-sum and merge-sorted-array" />
     <MESSAGE value="add intersection-of-two-arrays-ii" />
-    <option name="LAST_COMMIT_MESSAGE" value="add intersection-of-two-arrays-ii" />
+    <MESSAGE value="add reshape-the-matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="add reshape-the-matrix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
